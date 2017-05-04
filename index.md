@@ -5,5 +5,6 @@ If you are new, please follow the links to start.
 [Virtual Interns](pages/firststeps.md )
 [Volunteers](pages/firststeps.md )
 [Tech geniuses](pages/firststeps.md )
-[Users](pages/planetusermanual.md)
+[Users](pages/planetusermanual.md)![](pages/uploads/images/OLEInternational.png)
+
 Our Virtual Interns program is part of the software development strategy by [Open Learning Exchange](http://www.ole.org/) (OLÉ). We are a non-profit and for-purpose organization based in Cambridge, Massachusetts. We strive to provide universal quality education using open source materials and technology to address educational barriers.
