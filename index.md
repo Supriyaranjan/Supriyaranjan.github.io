@@ -1,5 +1,5 @@
 #Welcome!
 
 This is a MDwiki for our Virtual Interns program, Volunteers program ,Tech geniuses and Users.Please feel free to explore and offer suggestions on our [gitter.im chat](https://gitter.im/open-learning-exchange/chat).We are available to help you via chat.
-If you are new, please goto "First Steps" tab and select ["Start Here"](pages/firststeps.md ) to get going and for new Users select [planetuser](pages/planetusermanual.md )  ![](pages/uploads/images/OLEInternational.png) 
+If you are new, please goto "First Steps" tab and select ["Start"](pages/firststeps.md ) to get going and for new Users select [planetuser](pages/planetusermanual.md )  ![](pages/uploads/images/OLEInternational.png) 
 Our Virtual Interns program is part of the software development strategy by [Open Learning Exchange](http://www.ole.org/) (OLÉ). We are a non-profit and for-purpose organization based in Cambridge, Massachusetts. We strive to provide universal quality education using open source materials and technology to address educational barriers.
